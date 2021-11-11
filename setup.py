@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rcopy",
-    version="1.0.0",
+    version="1.0.1",
     author="Leonardo Guarnieri de Bastiani",
     author_email="leogbastiani@gmail.com",
-    description="Check if your local packages are up to date with origin",
+    description="Rotative clipboard",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/leobastiani/rcopy",
